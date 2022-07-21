@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedy0unes" alt="ahmedy0unes" /></a> </p>
 
-- 🔭 I’m currently working on [ExamLab](https://www.exam-lab.tech/)
+- 🔭 I’m currently training @ [wuilt](https://www.wuilt.com/)
 
-- 🌱 I’m currently learning **Docker-compose**
+- 🌱 I’m currently learning **Helm/Helm charts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
