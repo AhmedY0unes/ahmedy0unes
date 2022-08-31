@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently training @ [wuilt](https://www.wuilt.com/)
 
-- 🌱 I’m currently learning **Helm/Helm charts**
+- 🌱 I’m currently learning **Azure Kubernetes and DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
