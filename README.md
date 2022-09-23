@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently training @ [wuilt](https://www.wuilt.com/)
 
-- 🌱 I’m currently learning **PHP** T_T
+- 🌱 I’m currently learning **Helm-Charts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
