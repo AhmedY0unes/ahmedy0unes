@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Younes</h1>
-<h3 align="center">A passionate BackEnd and DevOps Engineer from Egypt</h3>
+<h3 align="center">A passionate BackEnd and DevOps Engineer</h3>
 
 - 🔭 I’m currently training @ [wuilt](https://www.wuilt.com/)
 
